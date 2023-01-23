@@ -1,0 +1,10 @@
+body {
+  background-color: azure;
+}
+
+@media print {
+  .d-no-print {
+    display: none  !important;
+  }
+}
+
